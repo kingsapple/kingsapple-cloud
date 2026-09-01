@@ -1,0 +1,4 @@
+symbol,qty,cost,class
+AAPL,50,175.50,Equities
+BTC,0.5,45000,Crypto
+GLD,20,180.00,Commodities
